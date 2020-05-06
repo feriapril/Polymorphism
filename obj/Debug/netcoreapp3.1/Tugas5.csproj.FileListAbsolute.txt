@@ -1,0 +1,13 @@
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\obj\Debug\netcoreapp3.1\Tugas5.csprojAssemblyReference.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\obj\Debug\netcoreapp3.1\Tugas5.csproj.CoreCompileInputs.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\obj\Debug\netcoreapp3.1\Tugas5.AssemblyInfoInputs.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\obj\Debug\netcoreapp3.1\Tugas5.AssemblyInfo.cs
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\bin\Debug\netcoreapp3.1\Tugas5.exe
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\bin\Debug\netcoreapp3.1\Tugas5.deps.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\bin\Debug\netcoreapp3.1\Tugas5.runtimeconfig.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\bin\Debug\netcoreapp3.1\Tugas5.runtimeconfig.dev.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\bin\Debug\netcoreapp3.1\Tugas5.dll
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\bin\Debug\netcoreapp3.1\Tugas5.pdb
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\obj\Debug\netcoreapp3.1\Tugas5.dll
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\obj\Debug\netcoreapp3.1\Tugas5.pdb
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas5\Tugas5\obj\Debug\netcoreapp3.1\Tugas5.genruntimeconfig.cache
